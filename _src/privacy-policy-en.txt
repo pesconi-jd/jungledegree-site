@@ -1,0 +1,50 @@
+Wild Pack: Multiplier Run - Privacy Policy
+
+Last updated: November 17, 2026
+
+Wild Pack: Multiplier Run ("the game", "the app") is published by Jungle Degree ("we", "us"). This policy explains what information the game uses, what is sent to others, and the choices you have. Contact: jungledegreelda@gmail.com
+
+1. SUMMARY
+- The game has no accounts, no sign-in and no in-app purchases.
+- We do not run our own servers and we do not collect your personal information ourselves.
+- Your progress is saved only on your device.
+- The game shows optional rewarded video ads through Google AdMob. Google may collect some device information for that purpose, as described below.
+- The game is for people aged 13 and over. It is not directed to children.
+
+2. INFORMATION STORED ON YOUR DEVICE
+The game saves, locally on your device only: your level, coin balance, unlocked and equipped skins, the player name you type in the menu, and your sound and vibration on/off choices. This data is never sent to us or to anyone else by the game. It is removed when you uninstall the game or clear its data in Android settings. Do not type personal information in the player name field.
+
+3. ADVERTISING (GOOGLE ADMOB)
+The game offers optional rewarded ads: you may choose to watch a video ad to get a reward (for example, to pass a trail). Ads are provided by Google AdMob. When the game requests or shows an ad, the Google Mobile Ads SDK may collect and use, according to Google's policies:
+- device and app identifiers, including the Android advertising ID (when allowed by your settings and consent);
+- IP address and approximate location derived from it;
+- information about your device and the app (for example operating system version, app version, language);
+- ad interactions, and diagnostic and performance data (for example crash logs).
+Google uses this information to serve and measure ads, to prevent fraud and abuse, and to keep the service working. Depending on your region and choices, ads may be personalized or non-personalized. We set the ad content rating to general audiences (PG) and we do not tag the app as directed to children.
+Learn how Google uses data: https://policies.google.com/technologies/partner-sites
+
+4. YOUR CHOICES AND CONSENT
+- In regions where the law requires it (for example the European Economic Area and the United Kingdom), the game shows a consent form (Google User Messaging Platform) on first use. Ads are requested only after the form allows it. If the game shows a "Privacy Options" button in the main menu, you can use it at any time to review or change your consent.
+- On Android you can reset your advertising ID or opt out of ad personalization in Settings > Privacy (or Settings > Google > Ads).
+- You can decline to watch ads; the game can be played without watching any.
+
+5. WHAT WE DO NOT DO
+We do not use analytics or tracking services of our own, do not ask for your contacts, camera, microphone, precise location, photos or files, do not sell personal information, and do not offer social features or user-generated content.
+
+6. CHILDREN
+The game is intended for people aged 13 and over and is not directed to children under 13. We do not knowingly collect personal information from children under 13. If you believe a child has provided information through the game, contact us at jungledegreelda@gmail.com.
+
+7. DATA RETENTION AND DELETION
+We hold no personal data about you. Local game data is deleted when you uninstall the game or clear its storage. Data processed by Google AdMob is governed by Google's own retention policies and controls (see the link in section 3).
+
+8. YOUR RIGHTS
+Depending on where you live (for example under the GDPR in Europe or the LGPD in Brazil), you may have rights to access, correct, delete or restrict the use of your personal data, and to withdraw consent. Because we do not hold personal data about you, requests about ad data are best made to Google through your Google account controls or the consent options above. You can also write to us and we will help you find the right place.
+
+9. SECURITY
+Ad requests are sent by Google's SDK over secure connections. Local game data stays in the app's private storage on your device.
+
+10. CHANGES TO THIS POLICY
+We may update this policy. The date at the top shows the latest version. If we add features that use new data (for example, analytics or purchases), we will update this policy before releasing them.
+
+11. CONTACT
+Jungle Degree - jungledegreelda@gmail.com

@@ -1,0 +1,50 @@
+Wild Pack: Multiplier Run - Política de Privacidade
+
+Última atualização: 17 de novembro de 2026
+
+Wild Pack: Multiplier Run ("o jogo", "o app") é publicado por Jungle Degree ("nós"). Esta política explica quais informações o jogo usa, o que é enviado a terceiros e quais escolhas você tem. Contato: jungledegreelda@gmail.com
+
+1. RESUMO
+- O jogo não tem conta, não pede login e não tem compras dentro do app.
+- Não temos servidores próprios e nós mesmos não coletamos suas informações pessoais.
+- Seu progresso fica salvo apenas no seu aparelho.
+- O jogo mostra anúncios em vídeo premiados e opcionais pelo Google AdMob. O Google pode coletar algumas informações do aparelho para isso, conforme descrito abaixo.
+- O jogo é para maiores de 13 anos. Não é direcionado a crianças.
+
+2. INFORMAÇÕES GUARDADAS NO SEU APARELHO
+O jogo salva, somente no seu aparelho: seu nível, saldo de moedas, skins desbloqueadas e equipadas, o nome de jogador que você digita no menu e suas escolhas de ligar ou desligar o som e a vibração. Esses dados nunca são enviados a nós nem a ninguém pelo jogo. Eles são apagados quando você desinstala o jogo ou limpa os dados do app nas configurações do Android. Não digite informações pessoais no campo de nome de jogador.
+
+3. ANÚNCIOS (GOOGLE ADMOB)
+O jogo oferece anúncios premiados opcionais: você pode escolher assistir a um vídeo para ganhar uma recompensa (por exemplo, passar de fase). Os anúncios são fornecidos pelo Google AdMob. Quando o jogo pede ou exibe um anúncio, o SDK Google Mobile Ads pode coletar e usar, conforme as políticas do Google:
+- identificadores do aparelho e do app, incluindo o ID de publicidade do Android (quando permitido pelas suas configurações e pelo seu consentimento);
+- endereço IP e localização aproximada derivada dele;
+- informações do aparelho e do app (por exemplo, versão do sistema, versão do app, idioma);
+- interações com anúncios e dados de diagnóstico e desempenho (por exemplo, relatórios de falha).
+O Google usa essas informações para exibir e medir anúncios, prevenir fraude e abuso e manter o serviço funcionando. Conforme sua região e suas escolhas, os anúncios podem ser personalizados ou não personalizados. Definimos a classificação de conteúdo dos anúncios como público geral (PG) e não marcamos o app como direcionado a crianças.
+Saiba como o Google usa dados: https://policies.google.com/technologies/partner-sites
+
+4. SUAS ESCOLHAS E CONSENTIMENTO
+- Nas regiões em que a lei exige (por exemplo, Espaço Econômico Europeu e Reino Unido), o jogo mostra um formulário de consentimento (Google User Messaging Platform) no primeiro uso. Os anúncios só são pedidos depois que o formulário permitir. Se o jogo mostrar o botão "Privacy Options" no menu principal, você pode usá-lo a qualquer momento para rever ou mudar seu consentimento.
+- No Android você pode redefinir o ID de publicidade ou desativar a personalização de anúncios em Configurações > Privacidade (ou Configurações > Google > Anúncios).
+- Você pode recusar assistir a anúncios; o jogo pode ser jogado sem assistir a nenhum.
+
+5. O QUE NÃO FAZEMOS
+Não usamos serviços próprios de análise ou rastreamento, não pedimos seus contatos, câmera, microfone, localização precisa, fotos ou arquivos, não vendemos informações pessoais e não temos recursos sociais nem conteúdo criado por usuários.
+
+6. CRIANÇAS
+O jogo é destinado a maiores de 13 anos e não é direcionado a crianças menores de 13. Não coletamos conscientemente informações pessoais de menores de 13 anos. Se você acredita que uma criança forneceu informações pelo jogo, escreva para jungledegreelda@gmail.com.
+
+7. RETENÇÃO E EXCLUSÃO DE DADOS
+Não mantemos dados pessoais sobre você. Os dados locais do jogo são apagados quando você desinstala o jogo ou limpa seu armazenamento. Os dados tratados pelo Google AdMob seguem as políticas e os controles de retenção do próprio Google (veja o link na seção 3).
+
+8. SEUS DIREITOS
+Conforme o lugar onde você mora (por exemplo, a LGPD no Brasil ou o GDPR na Europa), você pode ter direito de acessar, corrigir, excluir ou restringir o uso dos seus dados pessoais e de retirar o consentimento. Como não mantemos dados pessoais sobre você, pedidos sobre dados de anúncios devem ser feitos ao Google, pelos controles da sua conta Google ou pelas opções de consentimento acima. Você também pode nos escrever e ajudaremos a encontrar o lugar certo.
+
+9. SEGURANÇA
+Os pedidos de anúncio são enviados pelo SDK do Google por conexões seguras. Os dados locais do jogo ficam no armazenamento privado do app no seu aparelho.
+
+10. MUDANÇAS NESTA POLÍTICA
+Podemos atualizar esta política. A data no topo mostra a versão mais recente. Se incluirmos recursos que usem novos dados (por exemplo, análise ou compras), atualizaremos esta política antes de lançá-los.
+
+11. CONTATO
+Jungle Degree - jungledegreelda@gmail.com

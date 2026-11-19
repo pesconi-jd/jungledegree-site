@@ -1,0 +1,5 @@
+exclude:
+  - _src
+  - logo-source.png
+  - README.md
+  - RELATORIO.md

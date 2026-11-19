@@ -29,19 +29,21 @@ Convenção: `/<jogo>/` (página), `/<jogo>/privacy/` (EN), `/<jogo>/privacy/pt/
 `/pt/<jogo>/`. Copie a pasta `wild-pack/` (e `pt/wild-pack/`), adapte, e acrescente um cartão
 em "Jogos" nos dois `index.html` iniciais.
 
-## Publicar no GitHub Pages (não executado)
+## Publicar no GitHub Pages (ainda não executado)
 
-1. Criar um repositório **público** (o plano gratuito só serve Pages de repositórios públicos).
-2. `git remote add origin <url>` e `git push -u origin main`.
-3. No GitHub: Settings > Pages > Source: **Deploy from a branch**, branch `main`, pasta `/ (root)`.
-4. Esperar alguns minutos e abrir o endereço indicado; confirmar a política em modo anónimo.
+Repositório previsto: `pesconi-jd/jungledegree-site` (**público**: o plano gratuito só serve Pages de repositórios públicos). O `origin` já está configurado localmente; falta o push.
 
-## Ligar o domínio jungledegree.com (não executado)
+1. Criar o repositório vazio no GitHub (sem README nem licença) e só então: `git push -u origin main`.
+2. Settings > Pages > Source: **Deploy from a branch**, branch `main`, pasta `/ (root)`.
+3. O ficheiro `CNAME` (`jungledegree.com`) já está no repositório; em Pages > Custom domain confirmar `jungledegree.com`.
+4. Esperar alguns minutos, ativar **Enforce HTTPS** quando disponível e abrir a política em janela anónima.
 
-1. Escolher o endereço (por exemplo `jungledegree.com` ou `www.jungledegree.com`).
-2. No fornecedor de DNS: para o apex, registos `A` para `185.199.108.153`, `185.199.109.153`,
-   `185.199.110.153`, `185.199.111.153` (e opcionalmente `AAAA`); para `www`, um `CNAME`
-   para `<conta>.github.io`. Confirmar os valores na documentação atual do GitHub Pages.
-3. Em Settings > Pages > Custom domain, indicar o domínio (o GitHub cria o ficheiro `CNAME`) e
-   ativar **Enforce HTTPS** quando disponível.
-4. Depois, acrescentar `sitemap.xml` e a linha `Sitemap:` ao `robots.txt` com o domínio final.
+## DNS do domínio jungledegree.com na Squarespace (a configurar pelo utilizador)
+
+- Registos `A` para o apex (`@`): `185.199.108.153`, `185.199.109.153`, `185.199.110.153`, `185.199.111.153` (opcionalmente `AAAA` do GitHub).
+- `CNAME` para `www` apontando para `pesconi-jd.github.io`.
+- Confirmar os valores na documentação atual do GitHub Pages. Remover registos `A`/`CNAME` antigos que conflitem.
+
+## Endereços absolutos
+
+Canonical, `og:url`, `og:image`, `hreflang`, `sitemap.xml` e `robots.txt` usam `https://jungledegree.com/`. Se o domínio mudar, alterar esses ficheiros e o `CNAME`.

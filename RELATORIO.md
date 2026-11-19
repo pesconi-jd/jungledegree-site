@@ -6,7 +6,7 @@ Site estático em HTML/CSS puro: início, página do Wild Pack e política de pr
 páginas, `404.html`, `robots.txt`, favicon/ícones derivados do logótipo, `README.md`.
 Testado num servidor local: 0 ligações internas ou âncoras partidas nas 7 páginas, sem
 scroll horizontal a 375 px, desktop e telemóvel verificados visualmente.
-`CNAME` não criado. Nada de remoto, push ou DNS.
+`CNAME` (`jungledegree.com`), canonical/og/hreflang absolutos, `sitemap.xml` e `robots.txt` com sitemap criados. `origin` = `pesconi-jd/jungledegree-site` configurado; sem push nem DNS.
 
 ## Conferência da política contra o jogo (leitura apenas)
 Confirmado em `declaracoes.md`, `RewardedAdService.cs` e SISTEMA.md 7.30/7.35: sem contas,
@@ -15,9 +15,7 @@ AdMob + UMP, anúncio premiado opcional só após `CanRequestAds`; 13+, PG, sem 
 sem permissões de câmara/microfone/localização/armazenamento.
 
 ## Pendências para o utilizador
-1. **Email de contacto**: usei `pesconi@jungledegree.com` (o texto recebido trazia um "@"
-   de largura total, normalizado para ASCII). O jogo, a ficha e as declarações usavam
-   `jungledegreelda@gmail.com`. Confirmar que a caixa existe e atualizar o Play Console.
+1. **Email de contacto**: `pesconi@jungledegree.com` (existe, Google Workspace; "@" ASCII). O jogo, a ficha e as declarações antigas usavam `jungledegreelda@gmail.com`: atualizar o Play Console.
 2. **Morada**: confirmar "Rua Fernando Namora, 10, 3.º Dto., 2675-487 Odivelas" (corrigida de
    "namora").
 3. **Fontes Rubik e DM Sans**: não incluídas, para não haver pedidos à Google nem descarregar
@@ -33,8 +31,7 @@ sem permissões de câmara/microfone/localização/armazenamento.
 7. **Lista do SDK** (Data safety): conferir o que o AdMob declara na página da Google antes
    de fechar o Console (já pendente em `declaracoes.md`).
 8. **Menção a GitHub Pages** na secção "Este sítio web": se mudar de alojamento, atualizar.
-9. **Domínio e `CNAME`**; depois `sitemap.xml`, `<link rel="canonical">` e URL absoluta nas
-   meta tags `og:image`.
+9. **DNS na Squarespace** (registos em README.md) e HTTPS no GitHub Pages: feitos pelo utilizador após o push.
 10. **Jogo**: trocar `PrivacyPolicyLink.Url` e o campo do Play Console pela URL nova (outra
     sessão). A Play verifica a página: ela é HTML nativo e sem cookies.
 11. Link da Google Play no site: a página diz "Em breve"; trocar pelo endereço da ficha quando existir.
